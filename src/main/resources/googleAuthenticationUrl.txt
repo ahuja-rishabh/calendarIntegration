@@ -1,0 +1,2 @@
+  https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=542131670515-bij7oj1k5mj2vfqbnc3j587b3tphqg4j.apps.googleusercontent.com&redirect_uri=http://localhost:8888/Callback&response_type=code&scope=https://www.googleapis.com/auth/calendar.events%20https://www.googleapis.com/auth/calendar%20https://www.googleapis.com/auth/calendar.readonly%20https://www.googleapis.com/auth/calendar.events.readonly%20https://www.googleapis.com/auth/calendar.settings.readonly
+
